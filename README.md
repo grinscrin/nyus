@@ -1,4 +1,5 @@
 # nyus
+Nyus - News Feed using vuejs 
 
 ## Project setup
 ```
