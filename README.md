@@ -1,5 +1,5 @@
 # nyus
-Nyus - News Feed using vuejs 
+Nyus - News Feed using vuejs - _on going ..._
 
 ## Project setup
 ```
